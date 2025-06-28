@@ -1,0 +1,14 @@
+# Core DSPy and MCP dependencies
+dspy[mcp]>=2.5.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Async support
+asyncio-compat>=0.1.0
+
+# Optional: For better JSON formatting in demos
+rich>=13.0.0
+
+# OpenAI for LLM (can be replaced with other providers)
+openai>=1.0.0 
